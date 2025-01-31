@@ -107,7 +107,7 @@ You can verify your extensions work also very helpful.
 
 Only install pip packages after having done the venv, as it will install the packages inside this small python and not system wide.
 This is important for two reasons: Security as python can be used for malicious code. 
-But also once you will want to work with other projects. 
+But also once you will want to work with other projects or re-use code in 5 years. 
 
 Then you can simply create a ```requirements.txt``` 
 Where you keep track of the packages needed. Or do this automatically:
