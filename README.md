@@ -195,7 +195,6 @@ def exec():
     print(f"Simple array: {simple_array}")
 
 #world.py
-
 from hello import exec
 exec()
 ``` 
@@ -212,6 +211,7 @@ Drag the hello.py into it
 
 Now change the imports to:
 ```
+#world.py
 from utils.hello import exec
 exec()
 ```
