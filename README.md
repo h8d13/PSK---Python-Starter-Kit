@@ -206,17 +206,15 @@ Now run the world.py file and it will use the def from hello.py
 
 ---
 
-Sub-imports: Create a folder called: 'utils' or 'src'
+Sub-imports: Create a folder called: 'utils'
+
 Drag the hello.py into it
 
 Now change the imports to:
 ```
-#from src.hello import exec
 from utils.hello import exec
 exec()
 ```
-
-
 Cool! 
 
 Now create another file 'random_number.py' in the utils folder.
@@ -228,7 +226,7 @@ import random
 def get_random_element(array):
     return random.choice(array)
 ```
-
+Chnage the other file slightly
 ```
 #utils/hello.py
 import sys
@@ -249,7 +247,7 @@ from utils.hello import exec
 exec()
 ```
 
-
+You see how it's important to understand how you can effectively build features in a clean manner. 
 
 
 ## Comments & Debug
