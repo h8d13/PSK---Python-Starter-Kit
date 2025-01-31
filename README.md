@@ -248,7 +248,7 @@ exec()
 ```
 
 You see how it's important to understand how you can effectively build features in a clean manner, aswell as understanding why its practical to break down certain things to an extreme.
-
+Again a better exercise is the calculator.
 
 ## Comments & Debug
 
