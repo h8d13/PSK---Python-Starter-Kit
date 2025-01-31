@@ -106,7 +106,14 @@ You can verify your extensions work also very helpful.
 
 ## PIP
 
-Only install pip packages after having done the venv, as it will install the packages inside this small python and not system wide.
+**Only install pip packages after having done the venv, as it will install the packages inside this small python and not system wide.**
+```
+pip install x y
+```
+You can see it work directly as the files are being installed in the venv:
+
+![image](https://github.com/user-attachments/assets/71ac0edc-5682-4306-be9f-dbd41eda3dd3)
+
 This is important for two reasons: Security as python can be used for malicious code. 
 But also once you will want to work with other projects or re-use code in 5 years. 
 
