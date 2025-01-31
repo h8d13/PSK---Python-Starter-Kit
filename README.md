@@ -1,6 +1,4 @@
-# PSK---Python-Starter-Kit
-
-
+# PSK---Python-Starter-Kit 🐍 
 
 ## Extensions & Venvs
 
@@ -39,3 +37,32 @@ database_connector.py
 auth_helper.py
 
 No spaces, capitals, or (-,.)
+
+## Running files
+
+You can then simply right click a python file:
+
+![image](https://github.com/user-attachments/assets/8fcfb8df-3229-4e02-9c68-682c4d754920)
+
+Some things that are useful here, copying paths or relative paths. Or running the script. 
+
+Then in your hello.py put the following content:
+
+```
+import sys
+print (f'{sys.executable}')
+```
+
+If you run this and get "yourfoldername\.venv\Scripts\python.exe "
+
+Well the set up worked because it's using the new mini-python we created. 
+
+
+
+
+
+## Useful shortcuts
+
+- New window: CTRL SHIFT N
+- Go to file explorer: CTRL ALT R
+
