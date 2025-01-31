@@ -219,7 +219,7 @@ Cool!
 
 Now create another file 'random_number.py' in the utils folder.
 ```
-#utils/random_array.py
+#utils/random_number.py
 import numpy as np
 import random
 
