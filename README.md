@@ -200,9 +200,9 @@ from hello import exec
 exec()
 ``` 
 
-This is illustrative of course, but the idea is that you can easily use soemthing in something else? 
+This is illustrative of course, but the idea is that you can easily use something in something else? 
 
-Now run the world.py file and it will use the def from hello.py
+**Better exercise is to do a calculator with a main file, operations file and state file**
 
 ---
 
