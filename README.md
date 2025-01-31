@@ -125,6 +125,8 @@ You can see it work directly as the files are being installed in the venv:
 This is important for two reasons: Security as python can be used for malicious code. 
 But also once you will want to work with other projects or re-use code in 5 years. 
 
+Can use ```pip list``` for packages in your venv. 
+
 Then you can simply create a ```requirements.txt``` 
 Where you keep track of the packages needed. Or do this automatically:
 ```
