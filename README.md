@@ -38,6 +38,7 @@ If you prefer the terminal because you're a pro.
    Mac/Linux:  source myvenv/bin/activate
 ``` 
 I believe mac/linux with VSCode does it automatically. While Windows, just uses the venv but not sure always activates it but works regardless? 
+
 If you really want to make sure:
 ![image](https://github.com/user-attachments/assets/f491e860-c0f8-49e0-8024-93cee4c5d757)
 
