@@ -58,7 +58,7 @@ my_package
 mypackage
 company_project
 
-MODULES
+MODULES/FILES
 
 utils.py
 database_connector.py
