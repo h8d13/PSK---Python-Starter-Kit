@@ -19,8 +19,7 @@ If this worked you will now see:
 
 ![Screenshot from 2025-01-31 09-46-00](https://github.com/user-attachments/assets/38a7d23c-51a2-4c1d-ae23-4531d7bde35a)
 
-The venv shows we have selected it. 
-
+The interpreter path shows we have selected it ".venv" (name) "venv" (virtual envrionment).
 
 ## Explorer
 
