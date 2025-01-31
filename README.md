@@ -123,7 +123,7 @@ You can verify your extensions work also very helpful.
 
 ## PIP
 
-**Only install pip packages after having done the venv, as it will install the packages inside this small python and not system wide.**
+**Only install packages after having done the venv, as it will install the packages inside this small python and not system wide.**
 ```
 pip install x y
 ```
