@@ -164,3 +164,23 @@ Well the set up worked because it's using the new mini-python we created.
 You can achieve the same in terminal: ``` which python ##MacLinux 
 where python ##Windows```
 
+## Comments & Debug
+
+Two ways of making comments in python:
+Useful for pseudo-code, for clarity:
+
+![Screenshot from 2025-01-31 11-01-30](https://github.com/user-attachments/assets/545b3114-ca6c-42e8-bba7-e3fb71ec8acb)
+
+My favourite is # but you can also use """ for multi-line. It will ignore that block. 
+
+This is useful for debug then temporarily disabling a feature while keeping it in the code. 
+
+Shortcut: 
+Windows: Shift + Alt + A
+Linux: Shift + Ctrl + A
+macOS: Shift + Option + A
+
+For debug, I recommend following error lines (more specifically last or before last error in terminal output) then adding print statements to anything that could have caused. 
+This will help you reverse engineer your own code. 
+
+
