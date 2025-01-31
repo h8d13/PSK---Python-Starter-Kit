@@ -43,7 +43,7 @@ utils.py
 database_connector.py
 auth_helper.py
 
-No spaces, capitals, or (-,.)
+No spaces, capitals, or "-","."
 
 ## Running files
 
