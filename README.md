@@ -9,11 +9,18 @@ Ctrl Shift X
 Create a file called hello.py
 Press this button at the bottom right:
 
-![Screenshot from 2025-01-31 09-46-00](https://github.com/user-attachments/assets/e0a1094e-4ade-4af7-966e-1a33ec262194)
+![image](https://github.com/user-attachments/assets/54ef0904-c9a5-4f91-af33-c1637e867490)
 
 Then '+'
 
 ![image](https://github.com/user-attachments/assets/012cee1c-a28c-47e1-809a-c6d1045d9f55)
+
+If this worked you will now see:
+
+![Screenshot from 2025-01-31 09-46-00](https://github.com/user-attachments/assets/38a7d23c-51a2-4c1d-ae23-4531d7bde35a)
+
+The venv shows we have selected it. 
+
 
 ## Explorer
 
