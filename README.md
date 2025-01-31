@@ -183,4 +183,39 @@ macOS: Shift + Option + A
 For debug, I recommend following error lines (more specifically last or before last error in terminal output) then adding print statements to anything that could have caused. 
 This will help you reverse engineer your own code. 
 
+## Imports
+
+I like to break down imports into something clear: Internal & external
+
+External is going to be first for example one of the most used packages:
+``` import numpy as np ```
+
+Which let's me use numpy in my code:
+``` simple_array = np.arange(10) ``` 
+
+This is useful to make code shorter "as" and set what you want here. You could use nup or nump idk 
+
+----
+
+Internal is slightly different and trickier for beginners as they often work in single files. But I think it's very important to understand:
+
+Now we create a second file called "world.py" along with our first "hello.py".
+
+```
+#hello.py
+import sys
+import numpy as np
+
+def exec():
+    print (f'{sys.executable}')
+    simple_array = np.arange(10)
+    print(f"Simple array: {simple_array}")
+
+
+#world.py
+
+from hello import exec
+exec()
+``` 
+
 
