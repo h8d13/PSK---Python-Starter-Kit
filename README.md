@@ -188,12 +188,14 @@ This will help you reverse engineer your own code.
 I like to break down imports into something clear: Internal & external
 
 External is going to be first for example one of the most used packages:
+
 ``` import numpy as np ```
 
-Which let's me use numpy in my code:
+Which let's me use numpy in my code (as np):
+
 ``` simple_array = np.arange(10) ``` 
 
-This is useful to make code shorter "as" and set what you want here. You could use nup or nump idk 
+This is useful to make code shorter "as" and set what you want here. You could use nup or nump idk 😕
 
 ----
 
@@ -218,4 +220,4 @@ from hello import exec
 exec()
 ``` 
 
-
+This is illustrative of course, but the idea is that you can easily use soemthing in something else? 
