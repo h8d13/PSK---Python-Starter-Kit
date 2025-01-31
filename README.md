@@ -230,7 +230,7 @@ def get_random_element(array):
 ```
 
 ```
-#hello.py
+#utils/hello.py
 import sys
 import numpy as np
 from utils.random_array import get_random_element
@@ -244,6 +244,7 @@ def exec():
 
 Run this one.
 ```
+#world.py
 from utils.hello import exec
 exec()
 ```
