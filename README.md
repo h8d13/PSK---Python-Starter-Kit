@@ -234,7 +234,7 @@ c = "eight" + "zero"
 ```
 
 
-Shortcut: 
+Shortcut to comment out a block: 
 Windows: Shift + Alt + A
 Linux: Shift + Ctrl + A
 macOS: Shift + Option + A
