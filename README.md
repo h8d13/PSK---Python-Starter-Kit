@@ -224,7 +224,9 @@ This is illustrative of course, but the idea is that you can easily use soemthin
 
 Now run the world.py file and it will use the def from hello.py
 
-Step 2. Create a folder called: 'utils' or 'src'
+---
+
+Sub-imports: Create a folder called: 'utils' or 'src'
 Drag the hello.py into it
 
 Now change the imports to:
@@ -233,5 +235,7 @@ Now change the imports to:
 from utils.hello import exec
 exec()
 ```
+
+
 
 
