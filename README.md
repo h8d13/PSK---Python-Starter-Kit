@@ -103,3 +103,23 @@ You can verify your extensions work also very helpful.
 
 ![image](https://github.com/user-attachments/assets/687b48b3-345e-4577-860c-8704dd1b4b21)
 
+## PIP
+
+Only install pip packages after having done the venv, as it will install the packages inside this small python and not system wide.
+This is important for two reasons: Security as python can be used for malicious code. 
+But also once you will want to work with other projects. 
+
+Then you can simply create a ```requirements.txt``` 
+Where you keep track of the packages needed. Or do this automatically:
+```
+pip freeze > requirements.txt
+```
+
+If you're working with someone else's code this will also be useful:
+
+```
+pip install -r requirements.txt 
+```
+
+VSCode detects it automatically if you're creating a venv like the steps above. 
+
