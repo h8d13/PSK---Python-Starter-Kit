@@ -194,7 +194,6 @@ def exec():
     simple_array = np.arange(10)
     print(f"Simple array: {simple_array}")
 
-
 #world.py
 
 from hello import exec
@@ -216,6 +215,41 @@ Now change the imports to:
 from utils.hello import exec
 exec()
 ```
+
+
+Cool! 
+
+Now create another file 'random_number.py' in the utils folder.
+```
+#utils/random_number.py
+import numpy as np
+import random
+
+def get_random_element(array):
+    return random.choice(array)
+```
+
+```
+#hello.py
+import sys
+import numpy as np
+from utils.random_array import get_random_element
+
+def exec():
+    print(f'{sys.executable}')
+    simple_array = np.arange(10)
+    print(f"Simple array: {simple_array}")
+    print(f"Random element from simple array: {get_random_element(simple_array)}")
+```
+
+Run this one.
+```
+from utils.hello import exec
+exec()
+```
+
+
+
 
 ## Comments & Debug
 
