@@ -93,3 +93,9 @@ cp myfile.txt ../ (Copy a file up one)
 - Go to file explorer: CTRL ALT R
 - Go to vscode explorer: CTRL SHIFT P
 
+## Highlighting
+
+You can verify your extensions work also very helpful. 
+
+![image](https://github.com/user-attachments/assets/687b48b3-345e-4577-860c-8704dd1b4b21)
+
