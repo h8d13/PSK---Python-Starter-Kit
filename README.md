@@ -221,3 +221,17 @@ exec()
 ``` 
 
 This is illustrative of course, but the idea is that you can easily use soemthing in something else? 
+
+Now run the world.py file and it will use the def from hello.py
+
+Step 2. Create a folder called: 'utils' or 'src'
+Drag the hello.py into it
+
+Now change the imports to:
+```
+#from src.hello import exec
+from utils.hello import exec
+exec()
+```
+
+
