@@ -227,6 +227,12 @@ Useful for pseudo-code, for clarity:
 My favourite is # but you can also use """ for multi-line. It will ignore that block. 
 
 This is useful for debug then temporarily disabling a feature while keeping it in the code. 
+```
+a = 2 + 5
+#b = 7 + "four"
+c = "eight" + "zero"
+```
+
 
 Shortcut: 
 Windows: Shift + Alt + A
