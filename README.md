@@ -219,7 +219,7 @@ Cool!
 
 Now create another file 'random_number.py' in the utils folder.
 ```
-#utils/random_number.py
+#utils/random_array.py
 import numpy as np
 import random
 
@@ -247,7 +247,7 @@ from utils.hello import exec
 exec()
 ```
 
-You see how it's important to understand how you can effectively build features in a clean manner. 
+You see how it's important to understand how you can effectively build features in a clean manner, aswell as understanding why its practical to break down certain things to an extreme.
 
 
 ## Comments & Debug
