@@ -70,19 +70,6 @@ You can then simply right click a python file:
 
 Some things that are useful here, copying paths or relative paths. Or running the script. 
 
-Then in your hello.py put the following content:
-
-```
-import sys
-print (f'{sys.executable}')
-```
-
-If you run this and get "yourfoldername\.venv\Scripts\python.exe "
-
-Well the set up worked because it's using the new mini-python we created. 
-
-
-
 ## Using the terminal 
 ```
 Cd .. > Goes back one
@@ -148,3 +135,22 @@ pip install -r requirements.txt
 
 VSCode detects it automatically if you're creating a venv like the steps above. 
 
+
+## Running
+
+``` 
++ (.venv) PS C:\Users\hade\Desktop\new> & c:/Users/hade/Desktop/new/.venv/Scripts/python.exe c:/Users/hade/Desktop/new/hello.py
+hello world
+## VENV is on ######### CWD ########## VENV Python virtual path ############################ SCRIPT I WANT TO RUN ############
+```
+
+Then in your hello.py put the following content:
+
+```
+import sys
+print (f'{sys.executable}')
+```
+
+If you run this and get "yourfoldername\.venv\Scripts\python.exe "
+
+Well the set up worked because it's using the new mini-python we created. 
