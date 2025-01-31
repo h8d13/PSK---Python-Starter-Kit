@@ -95,6 +95,8 @@ cp myfile.txt ../ (Copy a file up one)
 - Search in drectory: CTRL SHIFT F
 - Go back to explorer: CTRL SHIFT E
 
+- Need more space CTRL + B
+
 ## Highlighting
 
 You can verify your extensions work also very helpful. 
