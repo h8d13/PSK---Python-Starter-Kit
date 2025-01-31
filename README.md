@@ -151,6 +151,6 @@ import sys
 print (f'{sys.executable}')
 ```
 
-If you run this and get "yourfoldername\.venv\Scripts\python.exe "
+If you run this and get ``` yourfoldername\.venv\Scripts\python.exe ``` 
 
 Well the set up worked because it's using the new mini-python we created. 
