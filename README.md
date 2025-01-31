@@ -91,7 +91,9 @@ cp myfile.txt ../ (Copy a file up one)
 
 - New window: CTRL SHIFT N
 - Go to file explorer: CTRL ALT R
-- Go to vscode explorer: CTRL SHIFT P
+- Go to vscode command palette: CTRL SHIFT P
+- Search in drectory: CTRL SHIFT F
+- Go back to explorer: CTRL SHIFT E
 
 ## Highlighting
 
