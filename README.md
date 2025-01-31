@@ -37,7 +37,7 @@ If you prefer the terminal because you're a pro.
    Windows:    myvenv\Scripts\activate
    Mac/Linux:  source myvenv/bin/activate
 ``` 
-
+I believe mac/linux with VSCode does it automatically. While Windows, just uses the venv but not sure always activates it but works regardless? 
 
 ## Explorer
 
