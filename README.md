@@ -159,4 +159,6 @@ If you run this and get ``` yourfoldername\.venv\Scripts\python.exe ```
 
 Well the set up worked because it's using the new mini-python we created. 
 
+You can achieve the same in terminal: ``` which python ##MacLinux 
+where python ##Windows```
 
