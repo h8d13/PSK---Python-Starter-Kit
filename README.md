@@ -23,21 +23,22 @@ The interpreter path shows we have selected it ".venv" (name) "venv" (virtual en
 
 If you prefer the terminal because you're a pro.
 
-Create a new project folder:
+```
+#Create a new project folder:
    mkdir python_project
 
-Move into your new folder:
+#Move into your new folder:
 
    cd python_project
 
-Create a virtual environment:
+#Create a virtual environment:
 
    python -m venv myvenv
    
-   Then activate it 
+   ## Then activate it 
    Windows:    myvenv\Scripts\activate
    Mac/Linux:  source myvenv/bin/activate
-
+``` 
 
 
 ## Explorer
