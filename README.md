@@ -28,11 +28,9 @@ If you prefer the terminal because you're a pro.
    mkdir python_project
 
 #Move into your new folder:
-
    cd python_project
 
 #Create a virtual environment:
-
    python -m venv myvenv
    
    ## Then activate it 
