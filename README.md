@@ -96,6 +96,7 @@ cp myfile.txt ../ (Copy a file up one)
 - Go back to explorer: CTRL SHIFT E
 
 - Need more space CTRL + B
+- Search in a file CTRL + F
 
 ## Highlighting
 
