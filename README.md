@@ -21,6 +21,20 @@ If this worked you will now see:
 
 The interpreter path shows we have selected it ".venv" (name) "venv" (virtual envrionment).
 
+If you prefer the terminal because you're a pro.
+
+   a. Create a new project folder:
+      mkdir python_project
+
+   b. Move into your new folder:
+      cd python_project
+
+   c. Create a virtual environment:
+      python -m venv myvenv
+      # Then activate it 
+      Windows:    myvenv\Scripts\activate
+      Mac/Linux:  source myvenv/bin/activate
+
 ## Explorer
 
 In your explorer you now have a .venv (the .env is something different for API keys).
