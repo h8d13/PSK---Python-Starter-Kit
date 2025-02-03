@@ -231,7 +231,7 @@ Chnage the other file slightly
 #utils/hello.py
 import sys
 import numpy as np
-from utils.random_array import get_random_element
+from utils.random_number import get_random_element
 
 def exec():
     print(f'{sys.executable}')
