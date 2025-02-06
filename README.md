@@ -140,7 +140,9 @@ pip install -r requirements.txt
 ```
 
 VSCode detects it automatically if you're creating a venv like the steps above. 
+![image](https://github.com/user-attachments/assets/12fdf6a3-c5e2-4fc4-bab6-93fc6e2a2d7d)
 
+This will elt you import projects and run them quickly. 
 
 ## Running
 
