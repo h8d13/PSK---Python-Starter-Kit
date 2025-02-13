@@ -2,7 +2,8 @@
 
 
 Make sure to tick the add to PATH box here and the disable path limit after.
-I fyou missed this step last time you can uninstall and do it again. 
+
+If you missed this step last time you can uninstall and do it again. 
 
 ![image](https://github.com/user-attachments/assets/02ca2c71-e8b9-4fcd-be6c-a2997b72738b)
 
