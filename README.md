@@ -59,7 +59,7 @@ If you really want to make sure:
 ## Explorer
 
 In your explorer you now have a .venv (the .env is something different for API keys).
-This is a portable python executable. 
+This is a portable python executable. Inside this .venv you will be able to download packages but they will be restricted to this virtual env.
 
 ![image](https://github.com/user-attachments/assets/f4063072-1aaf-42d0-8425-c07a2ab80313)
 
