@@ -8,6 +8,7 @@ Make sure to tick the add to PATH box here and the disable path limit after.
 ## Extensions & Venvs
 
 Ctrl Shift X 
+Check you have these installed. 
 
 ![image](https://github.com/user-attachments/assets/9b7e2959-27b6-4e06-af42-48e89c99bef6)
 
