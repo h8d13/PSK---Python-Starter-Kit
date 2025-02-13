@@ -17,7 +17,8 @@ Check you have these installed.
 
 ![image](https://github.com/user-attachments/assets/9b7e2959-27b6-4e06-af42-48e89c99bef6)
 
-Create a file called hello.py
+In your explorer create or open a directory > Create a file called hello.py
+
 Press this version button at the bottom right:
 
 ![image](https://github.com/user-attachments/assets/54ef0904-c9a5-4f91-af33-c1637e867490)
